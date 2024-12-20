@@ -5,7 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://royaboya.github.io',
-	base: 'royaboyaa',
+	site: 'https://royaboyaz.github.io',
 	integrations: [mdx(), sitemap()],
 });
