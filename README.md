@@ -1,3 +1,5 @@
+using default astro template for now
+
 # Astro Starter Kit: Blog
 
 ```sh
